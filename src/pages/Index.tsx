@@ -281,8 +281,8 @@ const Index = () => {
               <p className="text-muted-foreground">
                 Общие ценности, традиции и символы организации
               </p>
-            </div>
-          </Card>
+            </Card>
+          </div>
         </div>
       </section>
 
